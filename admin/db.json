@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "name": "pooja",
+      "email": "pooja123@gmail.com",
+      "password": "456123",
+      "mobile": "7383704257",
+      "id": "1680864732898",
+      "status": "Unblock"
+    },
+    {
+      "name": "rushab ",
+      "email": "rushab1998@gmail.com",
+      "password": "130798",
+      "mobile": "8200159558",
+      "id": "1680865001500",
+      "status": "Unblock"
+    },
+    {
+      "name": "aditya nikhare",
+      "email": "adi123@gmail.com",
+      "password": "123456",
+      "mobile": "9904466733",
+      "id": "1680866045950",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "name": "umang nikhare",
+      "email": "unikhare99@gmail.com",
+      "subject": "umang",
+      "message": "Hello",
+      "contactid": "161244854515126"
+    }
+  ],
+  "admin": [
+    {
+      "email": "unikhare99@gmail.com",
+      "password": 123456
+    },
+    {
+      "email": "pooja123@gmail.com",
+      "password": 748596
+    }
+  ]
+}
